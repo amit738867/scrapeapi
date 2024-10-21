@@ -73,7 +73,6 @@ chromeOptions.addArguments('--disable-javascript');  // Optional: Disable JavaSc
 
         // Print the fetched products
         console.log(fetchedProducts);
-
         return fetchedProducts;
     } finally {
         // Close the browser session
