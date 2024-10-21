@@ -1,0 +1,11 @@
+{
+	"name": "nodejs-online-compiler",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"chromedriver": "^130.0.0",
+		"puppeteer": "^23.6.0",
+		"selenium-webdriver": "^4.25.0"
+	}
+}
